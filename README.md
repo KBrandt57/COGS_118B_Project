@@ -8,6 +8,7 @@ To install ipykernal for jupyter notebook
 * `jupyter-lab` in terminal to launch jupyterlab
 ## Motivations
 I am extremely motivated.
+## Related Work
 ## Data Wrangling 
 ## Feature Extraction
 ## Exploratory Data Analysis
