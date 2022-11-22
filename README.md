@@ -5,6 +5,7 @@ Authors: Kyra Brandt, Chao-Li Wei (Michael)
 To install ipykernal for jupyter notebook
 * `pip install ipykernel` 
 * `python -m ipykernel install --user --name=cog118b` 
+* `jupyter-lab` in terminal to launch jupyterlab
 ## Motivations
 I am extremely motivated.
 ## Data Wrangling 
