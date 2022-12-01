@@ -2,5 +2,6 @@ pandas
 matplotlib
 seaborn
 numpy
-sklearn
+statsmodels
+scikit-learn
 jupyterlab
